@@ -2,7 +2,7 @@ This is a collection of examples of Mathworks, libsvm and RobColeman written cla
 
 The Folders within contain the following.
 
-Datasets: halfmoon and madelon datasets; .mat files and generation functions
+Datasets: halfmoon and madelon datasets; .mat files and generation functions. (fisheriris.m is an included dataset in basic matlab versions)
 examples: scripts outlining the simple use of classifiers
 functions: classifiers and support functions for the example scrips
 
